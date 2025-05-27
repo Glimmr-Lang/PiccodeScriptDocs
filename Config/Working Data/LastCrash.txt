@@ -1,0 +1,37 @@
+Generated on 2025/05/27 3:05:05 PM
+
+Crash Message:
+
+   Object reference not set to an instance of an object (Parser Thread 1)
+   (System.NullReferenceException)
+
+Task:
+
+   Parsing file /home/hexaredecimal/NetBeansProjects/PiccodeScript/pkg/string/string.pics
+
+Stack Trace:
+
+   ----- Parser Thread 1 -----
+  at CodeClear.NaturalDocs.Engine.Topics.Topic.get_DefinesClass () [0x00011] in <2e0f04c6748f44ccba959c49d1d05def>:0 
+  at CodeClear.NaturalDocs.Engine.Output.HTML.Target.OnDeleteTopic (CodeClear.NaturalDocs.Engine.Topics.Topic topic, CodeClear.NaturalDocs.Engine.IDObjects.NumberSet linksAffected, CodeClear.NaturalDocs.Engine.CodeDB.EventAccessor eventAccessor) [0x00004] in <2e0f04c6748f44ccba959c49d1d05def>:0 
+  at CodeClear.NaturalDocs.Engine.CodeDB.Accessor.DeleteTopic (CodeClear.NaturalDocs.Engine.Topics.Topic topic) [0x001d6] in <2e0f04c6748f44ccba959c49d1d05def>:0 
+  at CodeClear.NaturalDocs.Engine.CodeDB.Accessor.UpdateTopicsInFile (System.Int32 fileID, System.Collections.Generic.IList`1[T] newTopics, CodeClear.NaturalDocs.Engine.CancelDelegate cancelled) [0x00225] in <2e0f04c6748f44ccba959c49d1d05def>:0 
+  at CodeClear.NaturalDocs.Engine.Files.ChangeProcessor.ProcessNewOrChangedSourceFile (CodeClear.NaturalDocs.Engine.Files.File file, CodeClear.NaturalDocs.Engine.CodeDB.Accessor codeDBAccessor, CodeClear.NaturalDocs.Engine.CancelDelegate cancelDelegate) [0x00186] in <2e0f04c6748f44ccba959c49d1d05def>:0 
+  at CodeClear.NaturalDocs.Engine.Files.ChangeProcessor.ProcessNewOrChangedFile (CodeClear.NaturalDocs.Engine.Files.File file, CodeClear.NaturalDocs.Engine.CodeDB.Accessor codeDBAccessor, CodeClear.NaturalDocs.Engine.CancelDelegate cancelDelegate) [0x00009] in <2e0f04c6748f44ccba959c49d1d05def>:0 
+  at CodeClear.NaturalDocs.Engine.Files.ChangeProcessor.WorkOnProcessingChanges (CodeClear.NaturalDocs.Engine.CancelDelegate cancelDelegate) [0x0004f] in <2e0f04c6748f44ccba959c49d1d05def>:0 
+  at CodeClear.NaturalDocs.Engine.Thread.InternalStart () [0x0000f] in <2e0f04c6748f44ccba959c49d1d05def>:0 
+   ----- Parent Thread -----
+  at CodeClear.NaturalDocs.CLI.Application.Multithread (System.String threadName, CodeClear.NaturalDocs.Engine.CancellableTask task) [0x000b6] in <67d52bc3e2d24de0b9dcf433b5652d98>:0 
+  at CodeClear.NaturalDocs.CLI.Application.BuildDocumentation (CodeClear.NaturalDocs.Engine.Errors.ErrorList errorList) [0x00153] in <67d52bc3e2d24de0b9dcf433b5652d98>:0 
+  at CodeClear.NaturalDocs.CLI.Application.Main (System.String[] commandLine) [0x00141] in <67d52bc3e2d24de0b9dcf433b5652d98>:0 
+
+Command Line:
+
+   "/home/hexaredecimal/Probe/Natural Docs/nd/NaturalDocs.exe" Config/
+
+Versions:
+
+   Natural Docs 2.3.1
+   Unix 6.14.6.1
+   Mono 6.12.0
+   SQLite 3.43.2
