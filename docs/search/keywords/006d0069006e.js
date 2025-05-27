@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("min",["Function"],[["min",,[["Math",,,,0,"File:math/math.pics:Math.min","PiccodeScriptModule:Math:min"]]]]);

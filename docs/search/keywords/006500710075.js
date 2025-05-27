@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("equ",["Function"],[["equals",,[["Tuple",,,,0,"File:tuple/tuple.pics:Tuple.equals","PiccodeScriptModule:Tuple:equals"]]]]);

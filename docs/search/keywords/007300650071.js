@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("seq",["Function"],[["sequence",,[["Applicative",,,,0,"File:applicative/app.pics:Applicative.sequence","PiccodeScriptModule:Applicative:sequence"]]]]);

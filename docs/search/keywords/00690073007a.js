@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isz",["Function"],[["isZero",,[["Number",,,,0,"File:number/number.pics:Number.isZero","PiccodeScriptModule:Number:isZero"]]]]);

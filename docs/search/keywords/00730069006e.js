@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sin",["Function"],[["sin",,[["Math",,,,0,"File:math/math.pics:Math.sin","PiccodeScriptModule:Math:sin"]]],["sinh",,[["Math",,,,0,"File:math/math.pics:Math.sinh","PiccodeScriptModule:Math:sinh"]]]]);

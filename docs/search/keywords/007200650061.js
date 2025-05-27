@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rea",["Function"],[["read",,[["IO",,,,0,"File:io/io.pics:IO.read","PiccodeScriptModule:IO:read"]]]]);

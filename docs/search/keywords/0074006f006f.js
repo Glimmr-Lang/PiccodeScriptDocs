@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("too",["Function"],[["toOption",,[["Result",,,,0,"File:result/result.pics:Result.toOption","PiccodeScriptModule:Result:toOption"]]]]);

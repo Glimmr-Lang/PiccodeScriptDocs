@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tak",["Function"],[["take",,[["Array",,,,0,"File:array/array.pics:Array.take","PiccodeScriptModule:Array:take"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rep",["Function"],[["repeat",,[["String",,,,0,"File:string/string.pics:String.repeat","PiccodeScriptModule:String:repeat"]]]]);

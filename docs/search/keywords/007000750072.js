@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pur",["Function"],[["pure",,[["Applicative",,,,0,"File:applicative/app.pics:Applicative.pure","PiccodeScriptModule:Applicative:pure"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("swa",["Function"],[["swap",,[["Tuple",,,,0,"File:tuple/tuple.pics:Tuple.swap","PiccodeScriptModule:Tuple:swap"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("max",["Function"],[["max",,[["Math",,,,0,"File:math/math.pics:Math.max","PiccodeScriptModule:Math:max"]]]]);

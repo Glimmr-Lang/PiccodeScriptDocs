@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("abs",["Function"],[["abs",,[["Math",,,,0,"File:math/math.pics:Math.abs","PiccodeScriptModule:Math:abs"],["Number",,,,0,"File:number/number.pics:Number.abs","PiccodeScriptModule:Number:abs"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dro",["Function"],[["drop",,[["Array",,,,0,"File:array/array.pics:Array.drop","PiccodeScriptModule:Array:drop"]]]]);

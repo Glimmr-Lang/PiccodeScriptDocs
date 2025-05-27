@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pow",["Function"],[["pow",,[["Math",,,,0,"File:math/math.pics:Math.pow","PiccodeScriptModule:Math:pow"]]]]);

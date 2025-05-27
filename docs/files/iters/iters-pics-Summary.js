@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:iters/iters.pics","iters.pics");NDSummary.OnSummaryLoaded("File:iters/iters.pics",[["PiccodeScript","PiccodeScript"]],[["Functions","Function"],["Groups","Group"],["Module","Module"]],[[39,0,2,"Iterators","Iterators"],[40,0,1,"Functions","Iterators.Functions"],[41,0,0,"forEach","Iterators.forEach"]]);

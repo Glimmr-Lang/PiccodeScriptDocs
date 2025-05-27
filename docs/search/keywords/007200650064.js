@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("red",["Function"],[["reduce",,[["Array",,,,0,"File:array/array.pics:Array.reduce","PiccodeScriptModule:Array:reduce"]]]]);

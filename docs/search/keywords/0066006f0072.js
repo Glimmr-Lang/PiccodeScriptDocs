@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("for",["Function"],[["forEach",,[["Iterators",,,,0,"File:iters/iters.pics:Iterators.forEach","PiccodeScriptModule:Iterators:forEach"]]],["format",,[["String",,,,0,"File:string/string.pics:String.format","PiccodeScriptModule:String:format"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("spl",["Function"],[["split",,[["String",,,,0,"File:string/string.pics:String.split","PiccodeScriptModule:String:split"]]]]);

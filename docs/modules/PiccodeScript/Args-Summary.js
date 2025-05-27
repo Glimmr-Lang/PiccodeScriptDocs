@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("PiccodeScriptModule:Args","Args");NDSummary.OnSummaryLoaded("PiccodeScriptModule:Args",[["PiccodeScript","PiccodeScript"]],[["Functions","Function"],["Groups","Group"],["Module","Module"]],[[27,0,2,"Args"],[28,0,1,"Functions","Functions"],[29,0,0,"get","get"]]);

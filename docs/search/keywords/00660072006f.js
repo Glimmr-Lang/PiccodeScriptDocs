@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fro",["Function"],[["fromRange",,[["Array",,,,0,"File:array/array.pics:Array.fromRange","PiccodeScriptModule:Array:fromRange"]]]]);

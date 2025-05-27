@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("low",["Function"],[["lowercase",,[["String",,,,0,"File:string/string.pics:String.lowercase","PiccodeScriptModule:String:lowercase"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:args/args.pics","args.pics");NDSummary.OnSummaryLoaded("File:args/args.pics",[["PiccodeScript","PiccodeScript"]],[["Functions","Function"],["Groups","Group"],["Module","Module"]],[[27,0,2,"Args","Args"],[28,0,1,"Functions","Args.Functions"],[29,0,0,"get","Args.get"]]);

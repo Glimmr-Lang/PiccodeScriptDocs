@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cos",["Function"],[["cos",,[["Math",,,,0,"File:math/math.pics:Math.cos","PiccodeScriptModule:Math:cos"]]],["cosh",,[["Math",,,,0,"File:math/math.pics:Math.cosh","PiccodeScriptModule:Math:cosh"]]]]);

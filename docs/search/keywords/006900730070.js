@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isp",["Function"],[["isPositive",,[["Number",,,,0,"File:number/number.pics:Number.isPositive","PiccodeScriptModule:Number:isPositive"]]]]);

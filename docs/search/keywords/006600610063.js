@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fac",["Function"],[["factorial",,[["Math",,,,0,"File:math/math.pics:Math.factorial","PiccodeScriptModule:Math:factorial"]]]]);

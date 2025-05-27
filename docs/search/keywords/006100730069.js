@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("asi",["Function"],[["asin",,[["Math",,,,0,"File:math/math.pics:Math.asin","PiccodeScriptModule:Math:asin"]]]]);
