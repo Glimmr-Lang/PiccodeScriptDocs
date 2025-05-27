@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pri",["Function"],[["print",,[["IO",,,,0,"File:io/io.pics:IO.print","PiccodeScriptModule:IO:print"]]],["println",,[["IO",,,,0,"File:io/io.pics:IO.println","PiccodeScriptModule:IO:println"]]]]);

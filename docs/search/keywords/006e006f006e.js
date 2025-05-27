@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("non",["Function","Variable"],[["none",,[["Option",,,,0,"File:option/option.pics:Option.none","PiccodeScriptModule:Option:none"],["Option","NONE",,,1,"File:option/option.pics:Option.NONE","PiccodeScriptModule:Option:NONE"]]]]);

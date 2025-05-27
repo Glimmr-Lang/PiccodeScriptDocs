@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ind",["Function"],[["indexOf",,[["Array",,,,0,"File:array/array.pics:Array.indexOf","PiccodeScriptModule:Array:indexOf"]]]]);

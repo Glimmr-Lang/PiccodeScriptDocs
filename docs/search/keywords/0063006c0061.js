@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cla",["Function"],[["clamp",,[["Math",,,,0,"File:math/math.pics:Math.clamp","PiccodeScriptModule:Math:clamp"]]]]);

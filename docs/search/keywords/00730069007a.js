@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("siz",["Function"],[["size",,[["Tuple",,,,0,"File:tuple/tuple.pics:Tuple.size","PiccodeScriptModule:Tuple:size"]]]]);

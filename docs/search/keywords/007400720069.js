@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tri",["Function"],[["trim",,[["String",,,,0,"File:string/string.pics:String.trim","PiccodeScriptModule:String:trim"]]]]);

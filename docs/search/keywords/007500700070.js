@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("upp",["Function"],[["uppercase",,[["String",,,,0,"File:string/string.pics:String.uppercase","PiccodeScriptModule:String:uppercase"]]]]);

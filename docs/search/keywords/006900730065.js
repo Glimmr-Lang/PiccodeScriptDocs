@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ise",["Function"],[["isErr",,[["Result",,,,0,"File:result/result.pics:Result.isErr","PiccodeScriptModule:Result:isErr"]]],["isEven",,[["Number",,,,0,"File:number/number.pics:Number.isEven","PiccodeScriptModule:Number:isEven"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("aco",["Function"],[["acos",,[["Math",,,,0,"File:math/math.pics:Math.acos","PiccodeScriptModule:Math:acos"]]]]);

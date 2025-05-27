@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isn",["Function"],[["isNegative",,[["Number",,,,0,"File:number/number.pics:Number.isNegative","PiccodeScriptModule:Number:isNegative"]]],["isNone",,[["Option",,,,0,"File:option/option.pics:Option.isNone","PiccodeScriptModule:Option:isNone"]]]]);

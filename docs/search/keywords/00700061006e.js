@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pan",["Function"],[["panic",,[["System",,,,0,"File:sys/sys.pics:System.panic","PiccodeScriptModule:System:panic"]]]]);

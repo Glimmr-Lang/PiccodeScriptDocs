@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tra",["Function"],[["traverse",,[["Applicative",,,,0,"File:applicative/app.pics:Applicative.traverse","PiccodeScriptModule:Applicative:traverse"]]]]);

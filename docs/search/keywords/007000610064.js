@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pad",["Function"],[["padLeft",,[["String",,,,0,"File:string/string.pics:String.padLeft","PiccodeScriptModule:String:padLeft"]]],["padRight",,[["String",,,,0,"File:string/string.pics:String.padRight","PiccodeScriptModule:String:padRight"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("len",["Function"],[["length",,[["Array",,,,0,"File:array/array.pics:Array.length","PiccodeScriptModule:Array:length"],["String",,,,0,"File:string/string.pics:String.length","PiccodeScriptModule:String:length"]]]]);

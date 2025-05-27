@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ata",["Function"],[["atan",,[["Math",,,,0,"File:math/math.pics:Math.atan","PiccodeScriptModule:Math:atan"]]]]);

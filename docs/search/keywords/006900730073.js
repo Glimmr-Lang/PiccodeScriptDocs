@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("iss",["Function"],[["isSome",,[["Option",,,,0,"File:option/option.pics:Option.isSome","PiccodeScriptModule:Option:isSome"]]]]);

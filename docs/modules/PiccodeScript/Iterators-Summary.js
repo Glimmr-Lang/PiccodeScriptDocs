@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("PiccodeScriptModule:Iterators","Iterators");NDSummary.OnSummaryLoaded("PiccodeScriptModule:Iterators",[["PiccodeScript","PiccodeScript"]],[["Functions","Function"],["Groups","Group"],["Module","Module"]],[[39,0,2,"Iterators"],[40,0,1,"Functions","Functions"],[41,0,0,"forEach","forEach"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("zip",["Function"],[["zip",,[["Array",,,,0,"File:array/array.pics:Array.zip","PiccodeScriptModule:Array:zip"]]],["zipWith",,[["Tuple",,,,0,"File:tuple/tuple.pics:Tuple.zipWith","PiccodeScriptModule:Tuple:zipWith"]]]]);

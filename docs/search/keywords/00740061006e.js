@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tan",["Function"],[["tan",,[["Math",,,,0,"File:math/math.pics:Math.tan","PiccodeScriptModule:Math:tan"]]],["tanh",,[["Math",,,,0,"File:math/math.pics:Math.tanh","PiccodeScriptModule:Math:tanh"]]]]);

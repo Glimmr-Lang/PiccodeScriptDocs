@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("iso",["Function"],[["isOdd",,[["Number",,,,0,"File:number/number.pics:Number.isOdd","PiccodeScriptModule:Number:isOdd"]]],["isOk",,[["Result",,,,0,"File:result/result.pics:Result.isOk","PiccodeScriptModule:Result:isOk"]]]]);

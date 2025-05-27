@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lif",["Function"],[["lift2",,[["Applicative",,,,0,"File:applicative/app.pics:Applicative.lift2","PiccodeScriptModule:Applicative:lift2"]]]]);

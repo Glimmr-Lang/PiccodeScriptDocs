@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:io/io.pics","io.pics");NDSummary.OnSummaryLoaded("File:io/io.pics",[["PiccodeScript","PiccodeScript"]],[["Functions","Function"],["Groups","Group"],["Module","Module"]],[[86,0,2,"IO","IO"],[87,0,1,"Functions","IO.Functions"],[88,0,0,"print","IO.print"],[89,0,0,"println","IO.println"],[90,0,0,"read","IO.read"]]);

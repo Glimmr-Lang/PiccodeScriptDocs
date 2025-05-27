@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("app",["Module","Function"],[["Applicative",,[[,,,,0,"File:applicative/app.pics:Applicative","PiccodeScriptModule:Applicative"]]],["apply",,[["Applicative",,,,1,"File:applicative/app.pics:Applicative.apply","PiccodeScriptModule:Applicative:apply"]]]]);

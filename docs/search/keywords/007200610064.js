@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rad",["Function"],[["radToDeg",,[["Math",,,,0,"File:math/math.pics:Math.radToDeg","PiccodeScriptModule:Math:radToDeg"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("the",["Function"],[["thenIgnoreLeft",,[["Applicative",,,,0,"File:applicative/app.pics:Applicative.thenIgnoreLeft","PiccodeScriptModule:Applicative:thenIgnoreLeft"]]],["thenIgnoreRight",,[["Applicative",,,,0,"File:applicative/app.pics:Applicative.thenIgnoreRight","PiccodeScriptModule:Applicative:thenIgnoreRight"]]]]);
