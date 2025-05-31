@@ -4,7 +4,7 @@
 #
 
 app = 'piccodescriptdocs'
-primary_region = 'jnb'
+primary_region = 'iad'
 
 [build]
 
