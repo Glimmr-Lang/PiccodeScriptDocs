@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("uni",["Module","Constant"],[["Unit",,[[,,,,0,"File:unit/unit.pics:Unit","PiccodeScriptModule:Unit"],["Unit","UNIT",,,1,"File:unit/unit.pics:Unit.UNIT","PiccodeScriptModule:Unit:UNIT"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("uni",["Module","Variable"],[["Unit",,[[,,,,0,"File:unit/unit.pics:Unit","PiccodeScriptModule:Unit"],["Unit","UNIT",,,1,"File:unit/unit.pics:Unit.UNIT","PiccodeScriptModule:Unit:UNIT"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("emp",["Variable"],[["EMPTY",,[["String",,,,0,"File:string/string.pics:String.EMPTY","PiccodeScriptModule:String:EMPTY"]]]]);

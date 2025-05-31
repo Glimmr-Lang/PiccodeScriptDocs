@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("e",["Variable"],[["E",,[["Math",,,,0,"File:math/math.pics:Math.E","PiccodeScriptModule:Math:E"]]]]);
