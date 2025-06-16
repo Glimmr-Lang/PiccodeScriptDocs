@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("now",["Function"],[["now",,[["Time",,,,0,"File:time/time.pics:Time.now","PiccodeScriptModule:Time:now"]]]]);

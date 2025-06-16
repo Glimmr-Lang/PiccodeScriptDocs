@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ist",["Function"],[["isTuple",,[["Type",,,,0,"File:type/types.pics:Type.isTuple","PiccodeScriptModule:Type:isTuple"]]]]);

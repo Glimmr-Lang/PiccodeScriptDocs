@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:object/object.pics","object.pics");NDSummary.OnSummaryLoaded("File:object/object.pics",[["PiccodeScript","PiccodeScript"]],[["Functions","Function"],["Groups","Group"],["Module","Module"]],[[72,0,2,"Object","Object"],[73,0,1,"Functions","Object.Functions"],[74,0,0,"hasKey","Object.hasKey"]]);

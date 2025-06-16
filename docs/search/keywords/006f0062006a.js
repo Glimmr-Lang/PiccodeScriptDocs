@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("obj",["Module"],[["Object",,[[,,,,0,"File:object/object.pics:Object","PiccodeScriptModule:Object"]]]]);

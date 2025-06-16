@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("PiccodeScriptModule:Time","Time");NDSummary.OnSummaryLoaded("PiccodeScriptModule:Time",[["PiccodeScript","PiccodeScript"]],[["Functions","Function"],["Groups","Group"],["Module","Module"]],[[66,0,2,"Time"],[67,0,1,"Functions","Functions"],[68,0,0,"now","now"],[69,0,0,"min","min"],[70,0,0,"max","max"],[71,0,0,"from","from"]]);

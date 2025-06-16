@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isa",["Function"],[["isArray",,[["Type",,,,0,"File:type/types.pics:Type.isArray","PiccodeScriptModule:Type:isArray"]]]]);
