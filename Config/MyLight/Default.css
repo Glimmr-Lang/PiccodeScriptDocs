@@ -108,7 +108,7 @@
 	$MenuScrollbarTrackColor_Black: #040404;
 
 
-	$FooterTextColor: #909090;
+	$FooterTextColor: $MenuTextColor;
 		$FooterTextColor_Dark: #909090;  /* going darker makes it difficult to read */
 		$FooterTextColor_Black: $MenuTextColor_Black;
 	$FooterHoverColor: $MenuTextColor;
@@ -440,6 +440,7 @@ td {
 	box-sizing: border-box;
 	background: url("images/theme-switcher.svg") center center no-repeat;
 
+  box-shadow: 0.2em 0.2em #00000073;
 	/* Default to not displaying so it doesn't show up on the loading page.  NDFramePage will make it visible when it starts. */
 	display: none;
 	}
@@ -603,7 +604,7 @@ td {
 	padding: .4em .85rem .3em 1.9rem;
 	border: 1px solid #FFFFFF;
 	border-radius: 1em;
-
+  box-shadow: 0.2em 0.2em #00000073;
 	/* Make Firefox and Chrome consistent.  The theme switcher icon assumes 25px at 100% zoom. */
 	min-height: 25px;
 
@@ -2953,10 +2954,9 @@ $FadedInterfacePrototypeBorderB_Black: #4C4C65;
 		}
 
 	#FCopyright,
-	#FTimestamp {
-		margin-top: .15rem;
-		}
-
+  #FGeneratedBy {
+    color: $FooterTextColor;
+  }
 
 
 
