@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("awa",["Function"],[["await",,[["Virtual",,,,0,"File:virtual/vthread.pics:Virtual.await","PiccodeScriptModule:Virtual:await"]]]]);

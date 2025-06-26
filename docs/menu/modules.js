@@ -1,1 +1,1 @@
-﻿NDMenu.OnSectionLoaded("modules.js",[[1,"Applicative"],[1,"Args"],[1,"Array"],[1,"IO"],[1,"Iterators"],[1,"Math"],[1,"Number"],[1,"Object"],[1,"Option"],[1,"Result"],[1,"String"],[1,"System"],[1,"Time"],[1,"Tuple"],[1,"Type"],[1,"Unit"]]);
+﻿NDMenu.OnSectionLoaded("modules.js",[[1,"Applicative"],[1,"Args"],[1,"Array"],[1,"IO"],[1,"Iterators"],[1,"Math"],[1,"Number"],[1,"Object"],[1,"Option"],[1,"Result"],[1,"String"],[1,"System"],[1,"Time"],[1,"Tuple"],[1,"Type"],[1,"Unit"],[1,"Virtual"]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("PiccodeScriptModule:Virtual","Virtual");NDSummary.OnSummaryLoaded("PiccodeScriptModule:Virtual",[["PiccodeScript","PiccodeScript"]],[["Functions","Function"],["Groups","Group"],["Module","Module"]],[[72,0,2,"Virtual"],[73,0,1,"Functions","Functions"],[74,0,0,"task","task"],[75,0,0,"sleep","sleep"],[76,0,0,"await","await"]]);
